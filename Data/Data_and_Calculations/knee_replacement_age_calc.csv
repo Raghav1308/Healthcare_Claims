@@ -1,0 +1,66 @@
+concept_id,concept_name,domain_id
+42627956,Intra-operative use of kinetic balance sensor for implant stability during knee replacement arthroplasty (List separately in addition to code for primary procedure),Procedure
+4076602,Conversion from hybrid unicompartmental knee replacement,Procedure
+4079268,Conversion to uncemented total knee replacement,Procedure
+4079655,Primary hybrid unicompartmental knee replacement,Procedure
+4076190,Revision cemented unicompartmental knee replacement,Procedure
+4076181,Primary uncemented total knee replacement,Procedure
+4076600,Conversion from cemented unicompartmental knee replacement,Procedure
+4076601,Conversion from uncemented unicompartmental knee replacement,Procedure
+4079395,Conversion to hybrid unicompartmental knee replacement,Procedure
+4105106,Loosening of tibial component of total knee replacement,Condition
+4144550,Revision of hybrid total knee replacement NEC,Procedure
+40261757,Cemented total knee replacement: [conversion from] or [removal],Procedure
+40261769,Primary total knee replacement NEC,Procedure
+36210739,Orthopaedic disorders- status post unilateral knee replacement,Meas Value
+42872825,Primary hybrid total knee replacement,Procedure
+40482056,Revision of hybrid knee replacement,Procedure
+4138871,Conversion from cemented total knee replacement,Procedure
+4079653,Uncemented unicompartmental knee replacement,Procedure
+4076873,Hybrid unicompartmental knee replacement,Procedure
+44807066,Attention to hybrid total knee replacement,Procedure
+4084291,Loosening of femoral component of total knee replacement,Condition
+2000078,"Revision of knee replacement, total (all components)",Procedure
+45754718,"Major procedure, orthopedic - Knee replacement",Procedure
+40261773,Attention to hybrid total knee replacement NEC,Procedure
+40261771,Revision of total knee replacement NEC,Procedure
+43531648,Total knee replacement,Procedure
+4079394,Primary cemented unicompartmental knee replacement,Procedure
+4312755,Anesthesia for total knee replacement,Procedure
+4076590,Revision uncemented total knee replacement,Procedure
+4079654,Conversion to uncemented unicompartmental knee replacement,Procedure
+4079651,Cemented unicompartmental knee replacement,Procedure
+4079528,Revision cemented total knee replacement,Procedure
+4076874,Revision hybrid unicompartmental knee replacement,Procedure
+44807065,Attention to total knee replacement,Procedure
+4083361,Loosening of total knee replacement,Condition
+44805615,History of knee replacement,Observation
+4140722,Conversion from hybrid total knee replacement NEC,Procedure
+40348011,Knee replacement,Procedure
+40261774,Conversion from total knee replacement NEC,Procedure
+44786439,I intend to report the total knee replacement measures group,Observation
+42872821,Revision of hybrid total knee replacement,Procedure
+42872539,Conversion from hybrid total knee replacement,Procedure
+4079266,Primary cemented total knee replacement,Procedure
+4106397,Revision of knee replacement,Procedure
+4079652,Conversion to cemented unicompartmental knee replacement,Procedure
+4079527,Conversion to cemented total knee replacement,Procedure
+4076191,Primary uncemented unicompartmental knee replacement,Procedure
+4076872,Revision uncemented unicompartmental knee replacement,Procedure
+4084290,Loosening of unicondylar knee replacement,Condition
+44806910,Knee replacement planned,Observation
+2000079,"Revision of knee replacement, tibial component",Procedure
+2000081,"Revision of knee replacement, patellar component",Procedure
+2005904,Total knee replacement,Procedure
+4144551,Attention to total knee replacement NEC,Procedure
+44786438,All quality actions for the applicable measures in the total knee replacement measures group have been performed for this patient,Observation
+36210207,Orthopaedic disorders- status post bilateral knee replacements,Meas Value
+42872576,Conversion to hybrid total knee replacement,Procedure
+4138873,Conversion from uncemented total knee replacement,Procedure
+2000082,"Revision of total knee replacement, tibial insert (liner)",Procedure
+2000080,"Revision of knee replacement, femoral component",Procedure
+2005905,"Revision of knee replacement, not otherwise specified",Procedure
+4203091,Attention to hybrid total knee replacement NEC,Procedure
+4138875,Conversion to hybrid total knee replacement NEC,Procedure
+40261765,Uncemented total knee replacement: [conversion from] or [removal],Procedure
+4144435,Primary hybrid total knee replacement NEC,Procedure
